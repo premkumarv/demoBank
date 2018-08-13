@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Suite" verbose="1">
+
+  <test  name="checking">
+    <classes>
+      <class name="com.tnea.testcase.Checking"/>
+      <class name ="com.tnea.testcase.customerLogin"/>
+    </classes>
+  </test> 
+</suite>
